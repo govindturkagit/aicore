@@ -1,6 +1,6 @@
 name: multi_task_prompt
 version: 1.1.0
-apiVersion: argoproj.io/v1alpha2
+apiVersion: argoproj.io/v1alpha
 kind: PromptTemplate
 scenario: multi-task-processing
 spec:
