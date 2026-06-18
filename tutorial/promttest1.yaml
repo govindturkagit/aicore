@@ -1,5 +1,6 @@
 name: multi_task_prompt
-version: 1.1.1
+version: 1.1.0
+kind: PromptTemplate
 scenario: multi-task-processing
 spec:
   template:
@@ -19,4 +20,3 @@ spec:
         versions: "gpt-4-vision"
       - name: "gpt-4o"
         versions: "*"
- 
